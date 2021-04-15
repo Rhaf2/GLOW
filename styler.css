@@ -1,0 +1,184 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container {
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+}
+body {
+    background-color: hsla(0,0%,0%,1.00);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-image: url(img/Blueberry%20Bounce%20Gentle%20Cleanser.jpg);
+}
+
+
+.container .header {
+	text-align: center;
+}
+
+.container nav {
+    background-color: hsla(264,24%,55%,1.00);
+    width: 2997px;
+    height: 135px;
+    text-align: center;
+    margin-left: -922px;
+    margin-top: 47px;
+}
+.container nav a {
+    margin-top: 14px;
+    margin-bottom: 14px;
+    color: hsla(0,0%,100%,1.00);
+    margin-right: 12px;
+    margin-left: 12px;
+    text-decoration: none;
+    padding-right: 48px;
+    padding-left: 48px;
+    font-size: 62px;
+    padding-top: 50px;
+}
+.container main {
+    height: 462px;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+    text-align: center;
+}
+.container main img {
+    height: 827px;
+    text-align: center;
+    width: 709px;
+    margin-top: 110px;
+    margin-left: -575px;
+}
+
+
+.container main h1 {
+    color: hsla(0,0%,100%,1.00);
+    text-align: center;
+    font-size: 245px;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    margin-right: 10px;
+    margin-top: 1047px;
+    margin-left: -108px;
+}
+.container footer {
+    background-color: hsla(264,24%,55%,1.00);
+    height: 131px;
+    padding-bottom: 0px;
+    width: 2997px;
+    margin-left: -922px;
+    margin-top: 5031px;
+}
+.container footer p {
+    color: hsla(0,0%,100%,1.00);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 72px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 14px;
+}
+.container .header img {
+    width: 863px;
+    height: 475px;
+    padding-left: 184px;
+
+
+}
+
+.container main img {
+    height: 959px;
+    width: 1012px;
+    margin-top: -28px;
+    margin-left: -883px;
+    margin-right: -1726px;
+    padding-top: 0px;
+    padding-right: 323px;
+}
+
+
+
+
+
+.container main {
+    color: #FF0004;
+}
+
+
+
+
+.container main div {
+    margin-top: 8px;
+    width: 702px;
+    height: 351px;
+    margin-right: 898px;
+    margin-left: -287px;
+}
+main .OFF img {
+    width: 1016px;
+    height: 1220px;
+    margin-top: 399px;
+}
+
+.container main .OFF {
+}
+
+
+
+
+
+
+.container main {
+}
+.container main div {
+    padding-top: 88px;
+    padding-bottom: 465px;
+    margin-top: -81px;
+    margin-bottom: 573px;
+}
+.container main div {
+    margin-left: -450px;
+    margin-right: -800px;
+}
+.container main .AC {
+}
+main .AC img {
+    width: 2105px;
+    height: 3823px;
+    margin-top: 196px;
+}
+.nav-wapper .hamburger-menu {
+    width: 35px;
+    height: 30px;
+    margin-left: -762px;
+    text-align: justify;
+}
+.nav-wapper .hamburger-menu .line.line-1 {
+    height: 11px;
+    background-color: #7C7C7C;
+    text-align: center;
+    color: #FF0004;
+    width: 63px;
+    padding-bottom: 0px;
+    margin-top: -11px;
+    margin-bottom: 10px;
+}
+.nav-wapper .hamburger-menu .line.line-2 {
+    background-color: #7C7C7C;
+    text-align: center;
+    color: #FF0004;
+    height: 12px;
+    width: 62px;
+    margin-top: 7px;
+}
+.nav-wapper .hamburger-menu .line.line-3 {
+    background-color: #7C7C7C;
+    text-align: center;
+    height: 11px;
+    margin-top: -54px;
+    width: 63px;
+}
